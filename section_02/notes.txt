@@ -5,3 +5,5 @@ Notes
 - watched lessons 6, 7, 8, 9, and 10
 - downloaded movie box csv data for jupyter notebook online
 - cleaned movie box csv to remove outliers with no revenue
+- completed exercise in lesson 8
+- downloaded checkpoint notebook to begin lesson 9
