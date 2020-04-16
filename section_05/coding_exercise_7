@@ -1,0 +1,16 @@
+def is_it_prime(n):
+    #TODO: Write your code here.
+    # http://compoasso.free.fr/primelistweb/page/prime/liste_online_en.php
+    # https://en.wikipedia.org/wiki/Formula_for_primes
+
+    if n < 2:
+        return False
+
+    for i in range(2, n):
+        if (n % i == 0):
+            return False
+
+    return True
+
+
+    
